@@ -1,0 +1,7 @@
+D:\Analisis\Factory method\Factory method\bin\Debug\Factory method.exe.config
+D:\Analisis\Factory method\Factory method\bin\Debug\Factory method.exe
+D:\Analisis\Factory method\Factory method\bin\Debug\Factory method.pdb
+D:\Analisis\Factory method\Factory method\obj\Debug\Factory method.csproj.AssemblyReference.cache
+D:\Analisis\Factory method\Factory method\obj\Debug\Factory method.csproj.CoreCompileInputs.cache
+D:\Analisis\Factory method\Factory method\obj\Debug\Factory method.exe
+D:\Analisis\Factory method\Factory method\obj\Debug\Factory method.pdb
